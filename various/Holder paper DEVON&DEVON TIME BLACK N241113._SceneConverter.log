@@ -1,0 +1,9 @@
+Invalid geometry node : "VRayPlane01" found.
+Invalid material :"Material #35" found on node : "VRayPlane01".
+Invalid material :"Material #32" found on node : "cromo".
+Invalid material :"Material #47" found on node : "Rectangle01".
+Invalid material :"Material #48" found on node : "Rectangle01".
+Invalid material :"Material #31" found on node : "Mesh01".
+Performing scene check  for invalid nodes, materials, maps etc. on the : 
+12/02/2018 - 22:31:41
+Scene contains : 6 invalid features.
